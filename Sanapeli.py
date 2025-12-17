@@ -1,6 +1,6 @@
 import random
 
-word_bank = ["kissa", "syke", "meikki", "auto", "kalja"]
+word_bank = ["kissa", "syke", "meikki", "auto", "kalja", "lentokoneturbiini", "aasi", "sairaala"]
 
 word = random.choice(word_bank)
 
