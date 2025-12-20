@@ -6,6 +6,6 @@ next_birthday = datetime.date(2026, 7, 11)
 days_away = next_birthday - today
 
 if today == next_birthday:
-    print(random_message)
+    print(bday_messages.random_message)
 else:
     print(f'My next birthday is {days_away.days} days away!')
